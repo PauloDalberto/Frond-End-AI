@@ -1,50 +1,17 @@
-# Welcome to your Expo app 👋
+# Front-End-AI
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Descrição do Projeto
+**Front-End-AI** é um aplicativo móvel desenvolvido com React Native que utiliza a inteligência artificial do GeminiAI do Google para criar dietas personalizadas baseadas nos objetivos de cada usuário. A aplicação permite que os usuários informem suas metas (como perda de peso, ganho muscular, etc.) e recebam recomendações de dieta adequadas e ajustadas ao seu perfil.
 
-## Get started
+## Funcionalidades
+- **Criação de Dieta Personalizada**: A IA cria dietas específicas com base no objetivo pessoal de cada usuário.
+- **IA Avançada**: Utiliza a inteligência artificial do Google GeminiAI para gerar recomendações inteligentes.
+- **Interface Intuitiva**: Design fácil de usar e navegação simplificada para garantir uma experiência fluida no app.
+- **Compatibilidade com Diversos Objetivos**: Atende a diferentes metas, como perda de peso, ganho muscular e manutenção.
 
-1. Install dependencies
+## Tecnologias Utilizadas
+- **React Native**: Framework para desenvolvimento de aplicativos móveis utilizando React.
+- **TypeScript**: Linguagem com tipagem estática para maior segurança e qualidade do código.
+- **Zod**: Biblioteca de validação de esquemas e tipos para garantir a integridade dos dados.
+- **Google GeminiAI**: Inteligência artificial avançada para geração de dietas personalizadas.
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
